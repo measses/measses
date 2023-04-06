@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=measses&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=measses&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=meassesss)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 😂 Fun
+![image](https://user-images.githubusercontent.com/67739721/230511291-c8322d8b-42fd-4bd5-98be-99615cdf71a1.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
