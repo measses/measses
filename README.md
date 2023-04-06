@@ -1,5 +1,5 @@
 # Hello 👋, I'm Mert.
-<br><br>🚀 I'm Jr. Front-end Developer.<br><br>👨🏼‍💻💻 I'm currently working on HTML, CSS, Bootstrap, JavaScript.<br><br>👨🏼‍🎓 I'm currently learning React.js and Angular.js.<br><br>
+<br><br>🚀 I'm Jr. Front-end Developer.<br><br>👨🏼‍💻 I'm currently working on HTML, CSS, Bootstrap, JavaScript.<br><br>👨🏼‍🎓 I'm currently learning React.js and Angular.js.<br><br>
 
 
 ## 🌐 Socials:
