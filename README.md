@@ -1,5 +1,5 @@
 # Hello 👋, I'm Mert.
-<br><br>🚀 I'm Jr. Front-end Developer.<br><br>👨🏼‍💻 I'm currently working on HTML, CSS, Bootstrap, JavaScript.<br><br>👨🏼‍🎓 I'm currently learning React.js and Angular.js.<br><br>
+<br><br>🚀 I'm Jr. Front-end Developer.<br><br>👨🏼‍💻 I'm currently working on HTML, CSS, Bootstrap, JavaScript,TyepScript.<br><br>👨🏼‍🎓 I'm currently learning React.js and Angular.js.<br><br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
